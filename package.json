@@ -6,12 +6,6 @@
   "scripts": {
     "start": "webpack-dev-server --config ./webpack.config.js --mode development"
   },
-  "babel": {
-    "presets": [
-      "@babel/preset-env",
-      "@babel/preset-react"
-    ]
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/BillzPillz/webpack.git"
